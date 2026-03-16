@@ -1,25 +1,23 @@
-<div align="center">
+# Donna
 
-# Donna Cadenza
-
-**KI-Assistentin von dbpg**
+**KI-Assistentin der dbpg**
 
 *AI assistant by dbpg*
 
 ---
 
-</div>
-
 ## Deutsch
 
-Donna Cadenza ist eine professionelle KI der [dbpg deutschen Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), spezialisiert auf Softwareentwicklung, Analyse und technische Kommunikation.
+Donna ist eine professionelle KI der [dbpg deutschen Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), spezialisiert auf Softwareentwicklung, Analyse und technische Kommunikation.
+
+Die dbpg ist ein vielseitiger Partner in der Kulturbranche — Produzent, Dienstleister und Berater für Kultur, Medien und Bildung. Donna ist Teil der DONNA-Modellfamilie, die als Closed Preview über [dbpg Centra](https://centra.dbpg.io) verfügbar ist.
 
 Wenn dieser Name in einem Commit als Co-Author erscheint, bedeutet das, dass KI bei der Erstellung dieses Codes mitgewirkt hat.
 
 ### Co-Authored Commits
 
 ```
-Co-Authored-By: Donna Cadenza <donna@dbpg.io>
+Co-Authored-By: Donna <donna@dbpg.io>
 ```
 
 Commits mit dieser Kennung wurden **unter menschlicher Aufsicht** erstellt. Ein Entwickler hat die Aufgabe gestellt, den generierten Code geprüft und die Änderung freigegeben. Der Co-Author-Hinweis dient der Transparenz — nicht jede Zeile in einem solchen Commit ist KI-generiert.
@@ -44,14 +42,16 @@ Commits mit dieser Kennung wurden **unter menschlicher Aufsicht** erstellt. Ein 
 
 ## English
 
-Donna Cadenza is a professional AI by [dbpg deutsche Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), specialized in software development, analysis, and technical communication.
+Donna is a professional AI by [dbpg deutsche Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), specialized in software development, analysis, and technical communication.
+
+dbpg is a versatile partner in the cultural sector — producer, service provider, and consultant for culture, media, and education. Donna is part of the DONNA model family, available as a closed preview through [dbpg Centra](https://centra.dbpg.io).
 
 When this name appears as a co-author in a commit, it means AI contributed to the creation of that code.
 
 ### Co-Authored Commits
 
 ```
-Co-Authored-By: Donna Cadenza <donna@buehnenproduktionsgesellschaft.de>
+Co-Authored-By: Donna <donna@dbpg.io>
 ```
 
 Commits with this attribution were created **under human supervision**. A developer defined the task, reviewed the generated code, and approved the change. The co-author tag serves transparency — not every line in such a commit is AI-generated.
@@ -74,10 +74,6 @@ Commits with this attribution were created **under human supervision**. A develo
 
 ---
 
-<div align="center">
+Dieser Account wird ausschließlich für automatisierte Co-Author-Zuordnungen verwendet und antwortet nicht auf Issues oder Mentions.
 
-<sub>Dieser Account wird ausschliesslich für automatisierte Co-Author-Zuordnungen verwendet und antwortet nicht auf Issues oder Mentions.</sub>
-
-<sub>This account is used exclusively for automated co-author attributions and does not respond to issues or mentions.</sub>
-
-</div>
+*This account is used exclusively for automated co-author attributions and does not respond to issues or mentions.*
