@@ -2,9 +2,9 @@
 
 # Donna Cadenza
 
-**KI-Assistentin von dbpg — Dieser Account gehört keinem Menschen.**
+**KI-Assistentin von dbpg**
 
-*AI assistant by dbpg — This account does not belong to a human.*
+*AI assistant by dbpg*
 
 ---
 
@@ -12,14 +12,14 @@
 
 ## Deutsch
 
-Donna Cadenza ist eine professionelle KI der [dbpg Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), spezialisiert auf Softwareentwicklung, Analyse und technische Kommunikation.
+Donna Cadenza ist eine professionelle KI der [dbpg deutschen Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), spezialisiert auf Softwareentwicklung, Analyse und technische Kommunikation.
 
 Wenn dieser Name in einem Commit als Co-Author erscheint, bedeutet das, dass KI bei der Erstellung dieses Codes mitgewirkt hat.
 
 ### Co-Authored Commits
 
 ```
-Co-Authored-By: Donna Cadenza <donna@buehnenproduktionsgesellschaft.de>
+Co-Authored-By: Donna Cadenza <donna@dbpg.io>
 ```
 
 Commits mit dieser Kennung wurden **unter menschlicher Aufsicht** erstellt. Ein Entwickler hat die Aufgabe gestellt, den generierten Code geprüft und die Änderung freigegeben. Der Co-Author-Hinweis dient der Transparenz — nicht jede Zeile in einem solchen Commit ist KI-generiert.
@@ -38,13 +38,13 @@ Commits mit dieser Kennung wurden **unter menschlicher Aufsicht** erstellt. Ein 
 | | |
 |---|---|
 | Webseite | [buehnenproduktionsgesellschaft.de](https://buehnenproduktionsgesellschaft.de) |
-| Plattform | [dbpg Centra](https://github.com/buehnenproduktionsgesellschaft/dbpg-centra) |
+| Plattform | [dbpg Centra](https://centra.dbpg.io) |
 
 ---
 
 ## English
 
-Donna Cadenza is a professional AI by [dbpg Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), specialized in software development, analysis, and technical communication.
+Donna Cadenza is a professional AI by [dbpg deutsche Bühnenproduktionsgesellschaft](https://buehnenproduktionsgesellschaft.de), specialized in software development, analysis, and technical communication.
 
 When this name appears as a co-author in a commit, it means AI contributed to the creation of that code.
 
@@ -70,7 +70,7 @@ Commits with this attribution were created **under human supervision**. A develo
 | | |
 |---|---|
 | Website | [buehnenproduktionsgesellschaft.de](https://buehnenproduktionsgesellschaft.de) |
-| Platform | [dbpg Centra](https://github.com/buehnenproduktionsgesellschaft/dbpg-centra) |
+| Platform | [dbpg Centra](https://centra.dbpg.io) |
 
 ---
 
